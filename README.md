@@ -1,8 +1,4 @@
-### Algoritmo para detecção de faixas
-### Paulo Henrique Tessmer - 05/2018
-
-****
-
-#### main.py - Algortimo para a detecção de faixas na pista em vídeos
-#### main_hls - Algortimo para a detecção de faixas na pista em vídeos fazendo filtragem pelas cores branca e amarela (mais lento e mais preciso)
-#### main_RT - Algortimo para a detecção de faixas na pista em tempo real
+### Lane detection algorithm for autonomous vehicle navigation.
+#### main.py - Lane detection on videos.
+#### main_hls - Lane detection on videos filtering only white and yellow pixels (slower but more accurate).
+#### main_RT - Lane detection algorithm for real time detection.
